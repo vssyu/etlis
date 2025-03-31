@@ -6,7 +6,7 @@ import json
 import sys
 from io import StringIO
 
-client = OpenAI(api_key="sk-5a3f1a8247324838a586ecb24b119373", base_url="https://api.deepseek.com")
+client = OpenAI(api_key="", base_url="https://api.deepseek.com")
 
 
 def extract_python_code(text):
