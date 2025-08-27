@@ -1,7 +1,6 @@
 **TITLE**
 　In more and more countries, people choose to give money on special occasions rather than giving gifts chosen personally. Why might this be the case? Is it a positive or a negative development?
 
-<img width="585" height="92" alt="image" src="https://github.com/user-attachments/assets/3c611746-f8ae-4d34-811e-bb10ec3f0261" />
 
 **RAW**
 Nowadays,  more people prefer to send money as  a gift in some special occasions such as wedding or birthday part. I think this trend is being formed by some several reasons and has a detrimental effect on personal interaction.
