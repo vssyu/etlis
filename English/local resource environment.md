@@ -6,9 +6,13 @@ The best way to protect the environment is to use local resource, such as food o
 
 
 There is an argument that whether using local endowment is the most effective method to protect the environment. I think that we should decide the method based on local situation.
+
 Using local resource can reduce usage of fossil fuel, which can lower greenhouse gas emission and air pollution. Transportation almost involves a variety of different mode of transport, such as airplane or railway. All these vehicles utilize natural gas or petrol which always produces carbon dioxide and other poisonous material. However, using local resources can reduce long-distance transportation and save energy. For example, the air quality is always better in countryside where indigenous dwellers do not need import agricultural products from other area than the one in urban area.
+
 On the other hand, some resource is limited in some regions and using endowment from other places could protect local environment instead. In some regions, duo to the climatic or geographic reasons, some type of resource is finite and hardly meet local residents’ needs.  If they continue to explore these resources, the environment would break up. In this case, importing products from other area can solve this problem. For example, when a forest is fragile and local people need logs to build the house, the best choice for they is to buy wood from other regions. This not only save the forest but also fill the building needs.
+
 In my view, people need consider the local resource situation to decide whether using local resource because utilize local resource blindly can cause environment crisis in turn.
+
 In conclusion, I think it is beneficial to local environment to use the local resource, but we also should use the alternative when the environmental resource is unable to fill the needs.
 
 
