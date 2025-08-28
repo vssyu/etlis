@@ -15,6 +15,7 @@ In conclusion, I think it is beneficial to local environment to use the local re
 ---
 
 ## Corrected essay
+There is an ongoing debate about whether relying on local resources—such as food and building materials—is the most effective way to protect the environment. I partly agree: local sourcing can be highly beneficial, but the best choice should depend on local conditions and full life-cycle impacts.
 
 On the one hand, prioritising local resources often reduces environmental harm. Shorter supply chains cut transport fuel use and associated emissions, especially for perishable goods that might otherwise be air-freighted. In construction, using regionally available materials—such as sustainably harvested timber, rammed earth, or recycled aggregates—can lower embodied carbon and encourage community buy-in. Local production also tends to require less packaging and simplifies waste management, which further decreases pollution.
 
