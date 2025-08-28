@@ -48,7 +48,6 @@ In conclusion, local sourcing is often advantageous, but it is not a universal s
 | “people need consider the local resource situation… because utilize local resource blindly can cause environment crisis”              | “People **need to consider** local resource conditions… because **blindly using** local resources can cause **environmental crises**.”        | Add “to”; gerund after “because”; adjective “environmental”; plural “crises.”                                    |
 | “we also should use the alternative when the environmental resource is unable to fill the needs.”                                     | “We should also use **alternatives** when local resources **cannot meet demand**.”                                                            | Word order; plural “alternatives”; natural collocation “meet demand.”                                            |
 
-如果你想，我可以把这篇改成**更短的 230–250 词考试版**，并附上一个**可套用的同意/不同意模板**，方便你在考场快速写作。
 
 
 
