@@ -23,7 +23,7 @@ One major reason students avoid science is the level of academic challenge. Disc
 
 The decline in science enrolment has significant social and economic implications. Modern economies depend heavily on technological innovation, which is driven by professionals trained in STEM fields. If fewer students pursue these disciplines, industries may face talent shortages, leading to slower innovation and weaker competitiveness. In addition, companies may relocate production to countries with a stronger scientific workforce, resulting in higher unemployment and growing inequality at home.
 
-In conclusion, the difficulty of scientific studies, poor working conditions, and lower salaries discourage students from pursuing science at university. Unless governments and institutions make these subjects more attractive, the shortage of skilled professionals will pose a serious threat to long-term economic growth and social stability.
+In conclusion, the difficulty of scientific studies, poor working conditions, and lower salaries discourage students from pursuing science at university. The shortage of skilled professionals will pose a serious threat to long-term economic growth and social stability.
 
 ---
 
