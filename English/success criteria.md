@@ -50,6 +50,7 @@ In conclusion, while material resources and appearance can be helpful, they are 
 | “appearance depend on innate condition”                                                                                   | “appearance **depends partly on genetics**”                                                                                | Subject–verb agreement; natural phrasing.                    |
 | “get fit through exercise.”                                                                                               | “**we can improve our health and appearance through exercise.**”                                                           | Clearer link to argument.                                    |
 | Paragraph duplicated at the end                                                                                           | **Remove duplicate paragraph**                                                                                             | Repetition hurts coherence and word count.                   |
-e next.
+
+
 
 
