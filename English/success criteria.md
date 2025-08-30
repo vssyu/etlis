@@ -15,7 +15,7 @@ On the other hand, some people lay emphasis on wealth and appearance as a succes
  In my view, determination and hard work is more suitable to be a success criteria. because the money can earn by working or investing, and appearance depend on innate condition. If we have  determination and hard work, we can achieve business goals to be rich and get fit through exercise.
 
 
-**model essay:**
+#  model essay
 
 People define success in very different ways. Some argue that a successful life is built on attitude—qualities like hard work, grit and determination—whereas others judge success by outward markers such as wealth and physical appearance. In my view, while money and looks can open doors, genuine success should be measured primarily by inner fulfilment, character and contribution.
 
