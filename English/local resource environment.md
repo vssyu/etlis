@@ -18,7 +18,7 @@ In conclusion, I think it is beneficial to local environment to use the local re
 
 
 
- **Model Essay
+## Model Essay
 
 There is an ongoing debate about whether relying on local resources—such as food and building materials—is the most effective way to protect the environment. I partly agree: local sourcing can be highly beneficial, but the best choice should depend on local conditions and full life-cycle impacts.
 
