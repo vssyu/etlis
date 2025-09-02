@@ -14,7 +14,8 @@ I think that technological skills  are double-edge sowller which deter some crim
 
 In conlusion, technology disencourage and encourage crimes at the same time. I think the benefit of technical development outwieghts their disadvantages 
 
-** model essay
+# **Model Essay
+
 
 Technology is a double-edged sword that can both suppress and stimulate criminal activity. While digital tools have expanded law-enforcement capabilities, they have also created new opportunities for offenders. Overall, I believe technology reduces crime when it is deployed with strong governance and public oversight.
 
