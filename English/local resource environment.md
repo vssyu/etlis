@@ -28,7 +28,8 @@ On the other hand, a “local only” approach can be counterproductive. Environ
 
 Therefore, the most effective strategy is context-specific optimisation. Policymakers and consumers should prioritise local options when they are genuinely lower-impact, while remaining open to imports when local production would be inefficient or ecologically risky. Practical measures include life-cycle carbon disclosure for food and building materials, incentives for seasonal diets, green public procurement that selects the lowest-carbon option (local or not), and investments in cleaner logistics.
 
-In conclusion, local sourcing is often advantageous, but it is not a universal solution. The best way to protect the environment is to choose the verifiably lowest-impact option based on local conditions and rigorous life-cycle evidence.---
+In conclusion, local sourcing is often advantageous, but it is not a universal solution. The best way to protect the environment is to choose the verifiably lowest-impact option based on local conditions and rigorous life-cycle evidence.
+
 
 # Your errors → corrections → why (representative examples)
 
