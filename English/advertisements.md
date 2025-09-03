@@ -27,7 +27,7 @@ Critics respond that advertising can damage well-being by cultivating dissatisfa
 
 On balance, advertising’s economic role is positive, but the social risks are real and manageable. Truth-in-advertising rules, clear labelling of sponsored content, limits on harmful ads to children, and stronger data-privacy standards can restrain excesses. At the same time, teaching media and financial literacy helps people interpret ads critically. With sensible safeguards, societies can keep the economic upside while reducing avoidable harm.
 
-In conclusion, advertising does risk fostering dissatisfaction, but, with fair rules and informed consumers, its economic advantages outweigh its social costs. The goal is not more advertising but better advertising—truthful, transparent, and age-appropriate.
+In conclusion, advertising does risk fostering dissatisfaction, but, with fair rules and informed consumers, its economic advantages outweigh its social costs.
 
 | Original                                                                                                                                      | Correction                                                                                              | Why                                                                                                     |
 | --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
