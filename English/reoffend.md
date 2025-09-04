@@ -1,6 +1,6 @@
 ## TITLE
 
-Some people think advertisements may have positive economic effects whereas others think there are negative social effects because individuals are not satisfied with who they are and what they have. Discuss both views and give your own opinion.
+Some ex-prisoners commit crimes after being released from the prison. What do you think is the cause? How can it be solved?
 
 
 ## RAW
