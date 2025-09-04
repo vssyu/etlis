@@ -1,6 +1,6 @@
 ## TITLE
 
-Some people say that what children watch on television influences their behaviour while others say the amount of time children spend watching television influences their behaviour. Discuss both views and give your opinion. 
+Some people think a job not only provides income but also a social life. Others think it is better to develop a social life with people you do not work with. Discuss both views and give your opinion.
 
 ## RAW
 Some people argue that individuals can earn a living and maintain the social intercation when working, while others think colleagues should not be involved in social life. I think people can enjoy a social life with colleagues. 
