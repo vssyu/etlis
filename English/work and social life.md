@@ -26,38 +26,34 @@ Conclusion: Jobs can be fertile ground for connection, yet a parallel network ou
 
 
 
-| Original                                                         | Correction                                                         | Why                                                   |
-| ---------------------------------------------------------------- | ------------------------------------------------------------------ | ----------------------------------------------------- |
-| “maintain the social intercation”                                | “maintain social interaction”                                      | Correct noun spelling and remove unnecessary article. |
-| “colleagues should not be involved in social life”               | “some believe colleagues should not be part of one’s social life”  | More natural phrasing.                                |
-| “a platforms to doing social ativities”                          | “a platform for social activities”                                 | Singular noun, correct preposition, spelling.         |
-| “At the rest time”                                               | “During breaks”                                                    | Natural collocation.                                  |
-| “those who has same hobbies”                                     | “those who have the same hobbies”                                  | Subject–verb agreement; article “the.”                |
-| “good candidates of their hobbies activties”                     | “good partners for hobby activities”                               | Natural word choice; spelling.                        |
-| “like sports can play them with colleagues”                      | “who like sports can play with colleagues”                         | Remove redundant pronoun “them.”                      |
-| “football that requires 22 person”                               | “football, which requires 22 people”                               | Relative clause, comma, plural noun.                  |
-| “Working occupies most of time of our life”                      | “Work occupies much of our lives”                                  | Natural, concise phrasing.                            |
-| “people work with can be your best resource of social life”      | “the people we work with can be a valuable social resource”        | Article use and clarity.                              |
-| “in working setting”                                             | “in a work setting”                                                | Article and natural collocation.                      |
-| “However, There”                                                 | “However, there”                                                   | Do not capitalize mid-sentence.                       |
-| “do social activties.Firstly,being”                              | “do social activities. Firstly, being”                             | Spacing, spelling, punctuation.                       |
-| “hard to go out the working cycle”                               | “hard to get out of the work cycle”                                | Correct prepositions and natural phrase.              |
-| “chat something associated with jobs”                            | “end up talking about work”                                        | Idiomatic expression.                                 |
-| “This adversely influence the mood”                              | “This adversely affects their mood”                                | Subject–verb agreement; clarity.                      |
-| “private time”                                                   | “personal time”                                                    | More natural collocation in this context.             |
-| “different industrial background”                                | “different professional backgrounds”                               | Precise and natural phrasing.                         |
-| “boarden the horizon”                                            | “broaden their horizons”                                           | Spelling; plural noun; pronoun.                       |
-| “promotes creativity and breakground ideals”                     | “promote creativity and breakthrough ideas”                        | Subject–verb agreement; correct word choice.          |
-| “good for the their career development”                          | “good for their career development”                                | Remove duplicate article.                             |
-| “jobs provide a good chance and resource for people to scoilize” | “jobs provide opportunities and resources for people to socialize” | Word choice and spelling.                             |
-| “as far as separating the working and private life”              | “as long as they keep work and private life separate”              | Natural phrasing.                                     |
-| “abidy the principle that not mention the jod related content”   | “abide by the principle of not discussing job-related matters”     | Verb form, prepositions, spelling, hyphenation.       |
-| “we can strike a balacne”                                        | “we can strike a balance”                                          | Spelling.                                             |
+| Original                                                             | Correction                                                            | Why                                                                 |
+| -------------------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| maintain the **social intercation**                                  | maintain **social interaction**                                       | Spelling; no article needed.                                        |
+| companies also offer **a platforms to doing social ativities**       | companies also offer **a platform for social activities**             | Article agreement; preposition; spelling.                           |
+| **At the rest time**, people can find those **who has** same hobbies | **During breaks**, people can find those **who have** similar hobbies | Natural phrase; subject–verb agreement; collocation.                |
+| good candidates **of their hobbies activties**                       | good partners **for their hobby activities**                          | Natural expression; spelling.                                       |
+| some people who like sports can **play them** with colleagues        | some people who like sports can **play with colleagues**              | “Play them” is unnatural; object unnecessary.                       |
+| football that requires **22 person**                                 | football, which requires **22 people**                                | Relative clause; plural noun.                                       |
+| Working occupies **most of time of our life**                        | **Work occupies most of our time**                                    | Natural word order; concision.                                      |
+| people **work with can be your best resource of social life**        | the people **you work with can be your best social resource**         | Word order; natural collocation.                                    |
+| find friends **easier in working setting**                           | find friends **more easily at work**                                  | Adverb form; natural preposition.                                   |
+| **However, There** are several reasons                               | **However, there** are several reasons                                | Capitalisation.                                                     |
+| reluctant to do **social activties**                                 | reluctant to do **social activities**                                 | Spelling.                                                           |
+| **Firstly,being** with colleagues                                    | **First, being** with colleagues                                      | Spacing; style (“First” preferred).                                 |
+| hard **to go out the working cycle**                                 | hard **to switch off from work**                                      | Idiomatic expression.                                               |
+| subconsciously **chat something associated with jobs**               | subconsciously **talk about work-related topics**                     | Natural verb-object pairing; hyphenation.                           |
+| This adversely **influence** the mood                                | This adversely **influences** their mood                              | Subject–verb agreement; pronoun.                                    |
+| enjoy **a private time**                                             | enjoy **private time**                                                | No article needed; natural phrase.                                  |
+| people with different **industrial background**                      | people from different **industries**                                  | Preposition; plural, natural noun.                                  |
+| can **boarden** the horizon                                          | can **broaden** their horizons                                        | Spelling; plural idiom.                                             |
+| these interactions often **promotes** creativity                     | these interactions often **promote** creativity                       | Subject–verb agreement.                                             |
+| **breakground ideals**                                               | **groundbreaking ideas**                                              | Spelling; correct collocation.                                      |
+| good for **the their** career development                            | good for **their** career development                                 | Remove duplicate article.                                           |
+| jobs provide a good chance and resource for people to **scoilize**   | jobs provide good opportunities for people to **socialise/socialize** | Spelling; plural “opportunities”; either UK/US spelling acceptable. |
+| **as far as** separating the working and private life                | **provided they** separate work and private life                      | Clear conditional; natural phrasing.                                |
+| If people can **abidy** the principle                                | If people **abide by** the principle                                  | Correct phrasal verb; spelling.                                     |
+| **not mention the jod related content**                              | **not discussing job-related topics**                                 | Gerund after preposition; spelling; hyphenation.                    |
+| strike a **balacne**                                                 | strike a **balance**                                                  | Spelling.                                                           |
+| **set a principle**                                                  | **set clear boundaries**                                              | More natural expression in this context.                            |
 
-If you’d like, I can also give you a quick band-score breakdown (TR/CC/LR/GRA) for your original and the revised version.
-
-| If people can **abidy** the principle that **not mention the jod related content**                        | If people **abide by** the principle of **not discussing job-related topics**                  | Spelling; correct phrasal verb; noun phrase.    |
-| while many **don't think working colleagues can be a source of social life**                              | while many **think colleagues should not be part of one’s social life**                        | Clarity; natural phrasing.                      |
-| strike a **balacne**                                                                                      | strike a **balance**                                                                           | Spelling.                                       |
-| set **a principle**                                                                                       | set **clear boundaries**                                                                       | More natural expression.                        |
 
