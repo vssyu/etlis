@@ -56,4 +56,24 @@ Conclusion: Jobs can be fertile ground for connection, yet a parallel network ou
 | strike a **balacne**                                                 | strike a **balance**                                                  | Spelling.                                                           |
 | **set a principle**                                                  | **set clear boundaries**                                              | More natural expression in this context.                            |
 
+-----------------
 
+| 优秀词汇/短语 | 中文释义 |
+| :--- | :--- |
+| furnish | 提供，配备 |
+| contend | 主张，争辩 |
+| cushion | 缓冲 |
+| contaminate | 污染，玷污 |
+| evaporate | 蒸发 |
+| nurture | 培育 |
+| cultivate | 培养 |
+| a built-in social circle | 内置的社交圈 |
+| camaraderie | 同志情谊，友爱 |
+| authenticity | 真实性 |
+| role spillover | 角色溢出 |
+| resilience | 韧性，恢复力 |
+| natural incubator | 天然的孵化器 |
+| low-effort contact | 低能耗的接触 |
+| tight deadlines | 紧迫的截止日期 |
+| predominantly work-based | 以工作为主的 |
+| identity-affirming | 强化身份的 |
