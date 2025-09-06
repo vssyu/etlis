@@ -52,4 +52,31 @@ In conclusion, it is not a waste of time to plan for the future; it is a waste t
 | spendin time in planning is worthy                                                                     | **spending time on planning is worthwhile**                                                                                  | Preposition and word choice                |
 | enjoying present at short is also necessary                                                            | enjoying **the** present in the short term is also necessary                                                                 | Preposition and clarity                    |
 
+----
 
+| 优秀词汇/短语          | 中文释义                     |
+| :---------------------- | :--------------------------- |
+| align                   | 使一致，使对齐               |
+| safeguards against risk | 防范风险                     |
+| aspirations             | 抱负，渴望                   |
+| roadmap                 | 路线图，规划                 |
+| allocate                | 分配                         |
+| strategic plans         | 战略计划                     |
+| milestones              | 里程碑，重要事件             |
+| adaptable               | 适应性强的                   |
+| anticipate uncertainty  | 预见到不确定性               |
+| build in buffers        | 预留缓冲/余地                |
+| drift                   | 漫无目的，随波逐流           |
+| reactive decisions      | 被动决策                     |
+| backfire                | 产生反效果，事与愿违         |
+| inherently uncertain    | 本质上不确定的               |
+| decision paralysis      | 决策瘫痪                     |
+| single-tasking          | 单一任务处理                 |
+| sustain momentum        | 保持势头                     |
+| avoid burnout           | 避免倦怠                     |
+| blends both horizons    | 融合两种视野/角度            |
+| measurable objectives   | 可衡量的目标                 |
+| execute                 | 执行                         |
+| periodically            | 定期地                       |
+| implemented             | 被实施                       |
+| mindful                 | 留心的，专注的               |
