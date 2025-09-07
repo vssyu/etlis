@@ -47,3 +47,29 @@ In conclusion, the lack of adequate job skills and societal support contributes 
 | prison education **cannot guide them to a proper living way**                             | prison education **alone may not change behaviour without post-release support** | Balanced, evidence-aligned claim                                 |
 | **lack of working skills is attributed to the most reoffending behaviours**               | **a lack of employable skills is a major driver of reoffending**                 | Natural phrasing and accuracy                                    |
 
+
+
+| 优秀词汇/短语             | 中文释义                 |
+| :----------------------- | :----------------------- |
+| reoffend                 | 再次犯罪                 |
+| recidivism               | 累犯，再犯               |
+| isolated                 | 被孤立                   |
+| adapt to                 | 适应                     |
+| secure employment        | 获得工作                 |
+| resort to                | 诉诸于，采取             |
+| discriminates against    | 歧视                     |
+| stigma                   | 污名                     |
+| motivated by             | 受...驱动                |
+| anti-social behavior     | 反社会行为               |
+| habitual                 | 习惯性的                 |
+| addressed                | 被解决                   |
+| assess                   | 评估                     |
+| posed by                 | 由...构成                |
+| minor offences           | 轻微罪行                 |
+| genuine remorse          | 真诚的悔意               |
+| psychological counseling | 心理咨询                 |
+| reintegrate into society | 重新融入社会             |
+| non-judgmental environment | 无偏见的环境          |
+| severe penalties         | 严厉的惩罚               |
+| rehabilitation programs  | 康复计划                 |
+| fostering an inclusive environment | 培养一个包容的环境 |
