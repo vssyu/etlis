@@ -29,30 +29,31 @@ In conclusion, while material resources and appearance can be helpful, they are 
 
 
 ---
-| Original                                                           | Correction                                                    | Why                                                |
-| ------------------------------------------------------------------ | ------------------------------------------------------------- | -------------------------------------------------- |
-| Being working-hard and determining                                 | Working hard and being determined                             | Correct gerund order and natural collocation.      |
-| can give people the power and confidence, which support their life | can give people power and confidence that support their lives | Remove article, use “that,” plural agreement.      |
-| their goals,For example,                                           | their goals. For example,                                     | Fix punctuation and capitalization.                |
-| a person with these facters are tend to be recommanded             | a person with these factors tends to be recommended           | Spelling; subject–verb agreement; natural passive. |
-| because these makes they feel reliable                             | because these qualities make them seem reliable               | Plural verb; pronoun case; natural verb choice.    |
-| immediate crisises                                                 | immediate crises                                              | Irregular plural.                                  |
-| The belif from others reinforces…                                  | Such trust from others reinforces the belief…                 | Spelling; clarity and concision.                   |
-| lay emphasis on wealth and appearance as a success                 | regard wealth and appearance as indicators of success         | Correct collocation; article use.                  |
-| In mordern world                                                   | In the modern world                                           | Spelling; article.                                 |
-| passionate service                                                 | premium services                                              | “Passionate service” is unnatural here.            |
-| material need                                                      | material needs                                                | Countable noun in this context.                    |
-| a beatiful appearance can attract otherss' attention               | a beautiful appearance can attract others’ attention          | Spelling; possessive punctuation.                  |
-| give people confidence and enviousness                             | give people confidence and even envy                          | Natural noun choice.                               |
-| determination and hard work is                                     | determination and hard work are                               | Compound subject → plural verb.                    |
-| to be a success criteria                                           | to be a success criterion / a criterion for success           | “Criterion” is singular; correct preposition.      |
-| because the money can earn                                         | because money can be earned / because people can earn money   | Passive or add subject; fix article.               |
-| appearance depend on innate condition                              | appearance depends on innate traits                           | Subject–verb agreement; natural noun.              |
-| get fit through exercise                                           | improve one’s appearance through exercise                     | Clearer link to “appearance.”                      |
-| succssful life depands                                             | a successful life depends                                     | Spelling; add article.                             |
-| their oponents                                                     | their opponents                                               | Spelling.                                          |
-| criteria of success                                                | criteria for success                                          | Correct preposition.                               |
-| possession and apperance                                           | possessions and appearance                                    | Plural noun; spelling.                             |
+| Original                                  | Correction                | Why                                                |
+| ---------------------------------------------------------------------- | ------------------------------------------------------------------- | -------------------------------------------------- |
+| Being **working-hard** and **determining**                             | **Working hard and being determined**                               | Correct gerund order and natural collocation.      |
+| can give people **the power and confidence, which support their life** | can give people **power and confidence that support their lives**   | Remove article, use “that,” plural agreement.      |
+| their goals,**For** example,                                           | their goals. **For** example,                                       | Fix punctuation and capitalization.                |
+| a person with these **facters are tend to be recommanded**             | a person with these **factors tends to be recommended**             | Spelling; subject–verb agreement; natural passive. |
+| because **these makes they feel reliable**                             | because **these qualities make them seem reliable**                 | Plural verb; pronoun case; natural verb choice.    |
+| immediate **crisises**                                                 | immediate **crises**                                                | Irregular plural.                                  |
+| The **belif** from others reinforces…                                  | **Such trust** from others reinforces the **belief…**               | Spelling; clarity and concision.                   |
+| **lay emphasis on** wealth and appearance **as a success**             | **regard** wealth and appearance **as indicators of success**       | Correct collocation; article use.                  |
+| In **mordern** world                                                   | In **the modern** world                                             | Spelling; article.                                 |
+| **passionate service**                                                 | **premium services**                                                | “Passionate service” is unnatural here.            |
+| material **need**                                                      | material **needs**                                                  | Countable noun in this context.                    |
+| a **beatiful** appearance can attract **otherss'** attention           | a **beautiful** appearance can attract **others’** attention        | Spelling; possessive punctuation.                  |
+| give people confidence and **enviousness**                             | give people confidence and **even envy**                            | Natural noun choice.                               |
+| determination and hard work **is**                                     | determination and hard work **are**                                 | Compound subject → plural verb.                    |
+| to be a **success criteria**                                           | to be a **success criterion** / **a criterion for success**         | “Criterion” is singular; correct preposition.      |
+| because **the money can earn**                                         | because **money can be earned** / because **people can earn money** | Passive or add subject; fix article.               |
+| appearance **depend** on innate **condition**                          | appearance **depends** on innate **traits**                         | Subject–verb agreement; natural noun.              |
+| **get fit** through exercise                                           | **improve one’s appearance** through exercise                       | Clearer link to “appearance.”                      |
+| **succssful** life **depands**                                         | a **successful** life **depends**                                   | Spelling; add article.                             |
+| their **oponents**                                                     | their **opponents**                                                 | Spelling.                                          |
+| criteria **of** success                                                | criteria **for** success                                            | Correct preposition.                               |
+| **possession** and **apperance**                                       | **possessions** and **appearance**                                  | Plural noun; spelling.                             |
+
 
 
 
