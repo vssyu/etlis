@@ -55,5 +55,30 @@ In conclusion, while material resources and appearance can be helpful, they are 
 | **possession** and **apperance**                                       | **possessions** and **appearance**                                  | Plural noun; spelling.                             |
 
 
-
+| 优秀词汇/短语                     | 中文释义                     |
+| ---------------------------------- | ---------------------------- |
+| built on attitude                  | 建立在态度之上               |
+| outward markers                    | 外在标志                     |
+| inner fulfilment                   | 内在满足感                   |
+| transforms potential into performance | 将潜力转化为表现           |
+| growth mindset                     | 成长型思维                   |
+| resilience after failure           | 失败后的韧性                 |
+| develop expertise                  | 发展专业技能                 |
+| earn trust                         | 赢得信任                     |
+| equate success with                | 将成功等同于                 |
+| confer social advantages           | 赋予社会优势                 |
+| inherited rather than earned       | 继承而非赚得                 |
+| robust definition                  | 强有力的定义                 |
+| centres on                         | 以...为中心                  |
+| living by one’s values             | 遵循自己的价值观生活         |
+| making a positive impact           | 产生积极影响                 |
+| attitude-based virtues             | 基于态度的美德               |
+| perseverance, integrity and self-discipline | 毅力、正直和自律         |
+| produce external rewards           | 带来外在回报                 |
+| without obsessing over it          | 而不必过分执着于此           |
+| unreliable yardsticks              | 不可靠的衡量标准             |
+| purposeful pursuit                 | 有目的的追求                 |
+| worthwhile goals                   | 有价值的目标                 |
+| reflected in                       | 体现于                       |
+| service to others                  | 为他人服务                   |
 
