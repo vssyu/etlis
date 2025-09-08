@@ -20,7 +20,6 @@ In conclusion, while time spend on Tv and content of TV both can have a detrimen
 
 ## model essay 
 
-model essay:
 Television can shape children’s behaviour in two main ways: through the conten they watch and through the amount of time they spend watching. Both matter, but I believe content exerts the stronger influence, while sensible limits on screen time are still necessary.
 
 Those who prioritise content point out that children are highly impressionable. Through modelling and imitation, they absorb the values, language, and problem-solving styles they see on screen. Programmes that glorify aggression or mock others can normalise unkind behaviour, whereas prosocial shows encourage empathy and cooperation. Because these messages shape what children consider acceptable, guidance on what to watch—age ratings, parental co-viewing, and discussions about on-screen choices—has a direct effect on behaviour.
