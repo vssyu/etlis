@@ -1,4 +1,4 @@
-## TITLE:
+## TITLE
 
 Some people say that what children watch on television influences their behaviour while others say the amount of time children spend watching television influences their behaviour. Discuss both views and give your opinion.
 
