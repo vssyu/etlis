@@ -31,6 +31,10 @@ In my view, content should come first: a few minutes of inappropriate material c
 
 In conclusion, while both what children watch and how long they watch affect behaviour, content carries the greater weight. With wise content choices and balanced time limits, television can support rather than undermine children’s development.
 
+
+---
+
+
 | Original                                                                                                                           | Correction                                                                                                                                        | Why                                                    |
 | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
 | There is an argument about whether content of television or time spend on that has more influence on children's behaviour          | There is a debate about whether **the content on television** or **the time spent watching it** has more influence on children’s behaviour        | Add articles and natural collocations; fix time phrase |
