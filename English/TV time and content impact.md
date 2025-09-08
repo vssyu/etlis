@@ -13,6 +13,9 @@ On the other hand, some people counter that the time spend on TV has bigger effe
 In my view, the content on TV should be given more priorities because children are in similate step and inapropriate content inflences they negatively. I think these impacts can be addressed by the collective effort of  governments and parents. Governments can set laws to prohibite sexual and violent content display in TV without limit to show to children and parents could select the suitable shows and guide correct views while watchging them with children. 
 
 In conclusion, while time spend on Tv and content of TV both can have a detrimental effect on children, I think the content derseve more attention. Grovernments and parents can alleviate the dnowside altogether. 
+
+
+
 ---
 
 ## model essay 
