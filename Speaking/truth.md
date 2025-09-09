@@ -2,7 +2,7 @@
 
 ## Part 2:
 
-**Cue Card Topic:** {{Describe a time when you told your friend an important truthYou should say}}
+**Cue Card Topic:** {{Describe a time when you told your friend an important truth You should say}}
 
 **You should say:**
 - Who your friend is
