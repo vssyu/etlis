@@ -41,7 +41,7 @@ I think it was important to tell him the truth because honesty builds trust not 
 
 **4. Do you think we should tell the truth at all times?**
 - In principle, yes, because truth builds trust and credibility. However, in real life, it’s not always practical to be 100% honest. There are situations where telling the truth might cause unnecessary conflict or harm. So I would say we should aim to be truthful most of the time, but also balance honesty with kindness and empathy.
-    - 
+  
 
 
 
