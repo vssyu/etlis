@@ -55,15 +55,4 @@ In conclusion, giving money is popular because it is convenient, efficient and f
 
 ---
 
-# Mini checklist for IELTS coherence & grammar
-
-* **Task response**: Answer both parts directly (why + positive/negative + clear opinion).
-* **Cohesion**: Use clear topic sentences and logical connectors (First, Another reason, However, In conclusion).
-* **Grammar**: Watch **subject–verb agreement**, **articles**, **plural/singular**, and **prepositions**.
-* **Lexis**: Prefer precise words: *flexibility, uncertainty, transactional, sentimental value, personalise, symbolic item*.
-* **Tone**: Avoid repetition of “money” by alternating with *cash, funds, gift money*.
-
----
-
-If you want, paste a revised version and I’ll mark it quickly against the four IELTS bands (TR/CC/LR/GRA) and suggest final tweaks to push it higher.
 
