@@ -1,9 +1,9 @@
-**TITLE:**
+## TITLE
 
 In more and more countries, people choose to give money on special occasions rather than giving gifts chosen personally. Why might this be the case? Is it a positive or a negative development?
 
 
-**RAW:**
+## RAW 
 
 Nowadays,  more people prefer to send money as  a gift in some special occasions such as wedding or birthday part. I think this trend is being formed by some several reasons and has a detrimental effect on personal interaction.
 
@@ -15,7 +15,7 @@ In conclusion, the convenience and helpfuless is the main reason why people use 
 
 ---
 
-# Polished model essay (≈280 words)
+## model essay 
 
 Many people now prefer giving cash on special occasions such as weddings or birthdays rather than choosing a physical gift. This trend is largely driven by convenience and flexibility, but if it replaces personal gestures altogether, it can weaken social bonds. Overall, I view it as a mixed development that requires thoughtful execution.
 
@@ -27,7 +27,7 @@ In conclusion, giving money is popular because it is convenient, efficient and f
 
 ---
 
-# Your errors → corrections → why (representative examples)
+
 
 | Original                                                     | Correction                                                    | Why                                                   |
 | ------------------------------------------------------------ | ------------------------------------------------------------- | ----------------------------------------------------- |
