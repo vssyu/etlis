@@ -18,7 +18,7 @@ In conclusion, the ugruncey of reducing the use of fossil fuels is sensiable, bu
 ## model essay 
 
 
-The world must cut its reliance on oil and gas quickly, but the way we get there matters. I agree that the international community should act now to drive down fossil-fuel use. However, expecting every nation to reduce consumption at the *same* speed is unrealistic and unfair. Urgency should be paired with support and differentiated responsibilities.
+The world must cut its reliance on oil and gas quickly, but the way we get there matters. I agree that the international community should act now to drive down fossil-fuel use. However, expecting every nation to reduce consumption at the same speed is unrealistic and unfair. Urgency should be paired with support and differentiated responsibilities.
 
 Acting immediately is justified on several grounds. First, fossil-fuel combustion drives air pollution and climate risks, harming health, agriculture, and infrastructure. Second, delaying the transition locks in expensive assets and exposes economies to volatile fuel prices. Clear global signals—such as standards for efficiency, phased targets for power and transport, and large-scale investment in clean energy and grid upgrades—can accelerate innovation and reduce costs for everyone.
 
