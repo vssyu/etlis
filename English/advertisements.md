@@ -1,9 +1,9 @@
-**TITLE**
+## TITLE
 
 Some people think advertisements may have positive economic effects whereas others think there are negative social effects because individuals are not satisfied with who they are and what they have. Discuss both views and give your own opinion.
 
 
-**RAW**
+## RAW
 
 Someone argues that advertising is an upside business action to societies, while some think that advertisements cause unsatisfaction aganist soceities by exaggerated progranda. I think although advertisements have drawbacks, their benefits should be prioritized. 
 
