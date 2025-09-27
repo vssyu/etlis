@@ -20,7 +20,14 @@ There are three primary reasons why ex-prisoners often reoffend. Firstly, after 
 However, this issue can be addressed through the efforts of governments and local communities. First and foremost, governments should assess the level of threat posed by each criminal to society. For those who just committed minor offences and express genuine remorse, governments should offer skill training and psychological counseling. This can help them reintegrate into society and find stable employment. At the same time, local communities must create a supportive and non-judgmental environment for these individuals. For example, offering paid community service opportunities could be a positive way for ex-prisoners to contribute to society while rebuilding their lives. However, for those who have committed multiple crimes or have a history of violent behavior, more severe penalties may be necessary, as they pose a greater risk to public safety. Prison education programs alone may not be enough to change their behavior.
 
 In conclusion, the lack of adequate job skills and societal support contributes significantly to the high rates of reoffending among ex-prisoners. Governments and local communities can help address this issue by offering targeted rehabilitation programs and fostering an inclusive environment for former prisoners. These efforts can reduce recidivism and help individuals successfully reintegrate into society.
+---
+许多出狱的罪犯会再次犯罪，造成这种现象的原因有多个。这一问题可以通过政府和当地社区的共同努力来解决。在这篇文章中，我将探讨导致罪犯再次犯罪的原因以及可能的解决办法来降低这一现象的发生。
 
+前科人员经常再次犯罪主要有三个主要原因。首先，长期与正常社会生活隔绝之后，前科人员难以适应在他们离开期间已发生巨大变化的社会。他们可能会感到困惑，并且由于自身技能和知识可能已不再符合当前工作要求，所以很难找到工作。因此，为了满足基本需求，他们可能会再次犯罪。其次，社会往往歧视有前科的人，许多工作机会对他们来说因这种污名而无法获得。最后，一些人再次犯罪是因为他们受快速赚钱的欲望和从事反社会行为所带来的刺激的驱使。对某些人来说，犯罪可能成为他们身份中习惯性的一部分。
+
+然而，这一问题可以通过政府和当地社区的努力来解决。首先，政府应当评估每个罪犯对社会构成的威胁程度。对于那些刚刚犯下轻微罪行且真心悔过的人员，政府应当为其提供技能培训和心理辅导。这有助于他们重新融入社会并找到稳定的工作。同时，当地社区必须为这些人营造一个支持性的、不带偏见的环境。例如，为刑满释放人员提供有报酬的社区服务机会，这可能是他们为社会做贡献并重建生活的积极方式。然而，对于那些多次犯罪或有暴力行为历史的人，可能需要更严厉的惩罚，因为他们对公共安全构成更大的威胁。仅靠监狱教育项目可能不足以改变他们的行为。
+
+总之，缺乏足够的职业技能以及社会支持是导致刑满释放人员再犯罪率高的重要原因。政府和地方社区可以通过提供有针对性的康复项目以及为刑满释放人员营造一个包容的环境来帮助解决这一问题。这些努力能够降低再犯罪率，并帮助个人顺利重新融入社会。
 
 | Original                                                      | Correction                                          | Why                                                              |
 | ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
