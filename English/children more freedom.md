@@ -14,7 +14,7 @@ In conclsuion, the develop of industrialization get children more freedom and th
 
 ## model essay
 
-Children in many parts of the world now enjoy greater freedom than previous generations did. I view this as ostly positive: when guided well, increased autonomy helps young people discover interests, build confidence, and develop critical thinking. However, freedom should come with age-appropriate boundaries and active parental supervision.
+Children in many parts of the world now enjoy greater freedom than previous generations did. I view this as mostly positive: when guided well, increased autonomy helps young people discover interests, build confidence, and develop critical thinking. However, freedom should come with age-appropriate boundaries and active parental supervision.
 
 One reason children have more freedom is improved living standards brought by technological progress and economic growth. With basic needs more reliably met, families no longer require children to contribute as heavily to household labour. Schools and communities also offer a wider range of extracurricular activities—from music and coding clubs to team sports—giving children safe spaces to explore. In addition, the internet has expanded access to information and creative tools, allowing young people to learn independently and connect with peers who share their passions.
 
