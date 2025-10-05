@@ -1,6 +1,6 @@
 ## TITLE
 
-In conclusion, I think tourism offer a chance for developing countries to develop. But too many similar projects pose a negative for these countries.
+An increasing number of developing countries are expanding their tourist industry. Why is this the case? Do you think it is a positive development?
 
 ## RAW
 
