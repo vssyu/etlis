@@ -1,0 +1,31 @@
+services:
+  classifier:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: classifier-extractor:latest
+    # ── GPU access ──────────────────────────────────────────────────────────
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]
+    # ── Volume mounts ───────────────────────────────────────────────────────
+    volumes:
+      # Input data (Excel labels + annotated examples)
+      - ./data:/app/data
+      # Model checkpoints and pipeline results
+      - ./output:/app/output
+      # Persistent HuggingFace model cache (avoids re-downloading on restart)
+      - hf_cache:/root/.cache/huggingface
+    environment:
+      - NVIDIA_VISIBLE_DEVICES=all
+      - TRANSFORMERS_CACHE=/root/.cache/huggingface
+      - HF_HOME=/root/.cache/huggingface
+    stdin_open: true
+    tty: true
+
+volumes:
+  hf_cache:
