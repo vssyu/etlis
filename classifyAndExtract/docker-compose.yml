@@ -3,7 +3,13 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
+      args:
+        # Change this password before deploying, or pass it at build time:
+        #   docker compose build --build-arg SSH_PASSWORD=yourpassword
+        SSH_PASSWORD: classifier123
     image: classifier-extractor:latest
+    ports:
+      - "2222:22"   # SSH for PyCharm remote interpreter / debugger
     # ── GPU access ──────────────────────────────────────────────────────────
     deploy:
       resources:

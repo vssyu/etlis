@@ -9,7 +9,17 @@ WORKDIR /app
 RUN apt-get update && apt-get install -y --no-install-recommends \
         unzip \
         git \
+        openssh-server \
         && rm -rf /var/lib/apt/lists/*
+
+# ── SSH server configuration (for PyCharm remote debugging) ──────────────────
+# Change SSH_PASSWORD at build time:
+#   docker compose build --build-arg SSH_PASSWORD=yourpassword
+ARG SSH_PASSWORD=classifier123
+RUN echo "root:${SSH_PASSWORD}" | chpasswd \
+    && sed -i 's/#PermitRootLogin prohibit-password/PermitRootLogin yes/' /etc/ssh/sshd_config \
+    && sed -i 's/#PasswordAuthentication yes/PasswordAuthentication yes/' /etc/ssh/sshd_config \
+    && ssh-keygen -A
 
 # ── Python dependencies ───────────────────────────────────────────────────────
 # torch is already provided by the base image; we skip reinstalling it to
@@ -20,6 +30,8 @@ RUN pip install --no-cache-dir \
 
 # ── Project source ────────────────────────────────────────────────────────────
 COPY *.py ./
+COPY entrypoint.sh ./
+RUN chmod +x entrypoint.sh
 
 # ── Runtime directories ───────────────────────────────────────────────────────
 # data/   — mount your Excel + annotated examples here
@@ -34,4 +46,7 @@ RUN python -m pytest test_segmentation.py -v --tb=short
 ENV TRANSFORMERS_CACHE=/root/.cache/huggingface
 ENV HF_HOME=/root/.cache/huggingface
 
+EXPOSE 22
+
+ENTRYPOINT ["./entrypoint.sh"]
 CMD ["bash"]
