@@ -1,5 +1,5 @@
 # =============================================================================
-# deploy.ps1  —  Copy project to Linux server and set up Docker environment
+# deploy.ps1  —  Copy project to Linux server and set up the Python environment
 # =============================================================================
 # Usage:
 #   .\deploy.ps1
@@ -7,9 +7,10 @@
 #
 # You will be prompted for your SSH password twice:
 #   1. scp  — uploads the archive
-#   2. ssh  — extracts files and runs setup.sh (installs Docker + builds image)
+#   2. ssh  — extracts files and runs setup.sh (installs Python + builds venv)
 #
-# setup.sh requires root. If your user is not root, it will call sudo internally.
+# setup.sh installs system packages, so it requires root. If your user is not
+# root, the script calls sudo internally.
 # =============================================================================
 
 param(
@@ -35,7 +36,7 @@ $RemoteZip = "/tmp/classifier_deploy.zip"
 # ── 1. Package project files ──────────────────────────────────────────────────
 Write-Host "`n[1/3] Packaging project files..."
 
-$include  = @("*.py", "*.txt", "*.sh", "*.yml", "*.yaml", "Dockerfile", ".dockerignore")
+$include  = @("*.py", "*.txt", "*.sh")
 $exclude  = @("output", "__pycache__", ".idea", ".git", "venv")
 
 $filesToPack = Get-ChildItem -Path $LocalDir -File -Recurse | Where-Object {
@@ -65,12 +66,12 @@ Write-Host "`n[2/3] Uploading to ${RemoteUser}@${RemoteHost} ..."
 Write-Host "      (SSH password prompt #1)"
 scp -P $RemotePort $Archive "${RemoteUser}@${RemoteHost}:${RemoteZip}"
 
-# ── 3. Remote: extract + install Docker + build image ────────────────────────
-Write-Host "`n[3/3] Running remote setup (Docker install + image build)..."
+# ── 3. Remote: extract + install Python + build venv ─────────────────────────
+Write-Host "`n[3/3] Running remote setup (Python install + venv + dependencies)..."
 Write-Host "      (SSH password prompt #2)"
-Write-Host "      Note: Docker image build downloads ~5 GB on first run."
+Write-Host "      Note: first run installs Python and downloads PyTorch (~3 GB)."
 
-# Use sudo for Docker/toolkit installation; the project files are owned by the user.
+# setup.sh installs system packages, so it needs root via sudo.
 $RemoteCmd = @"
 set -e
 
@@ -81,7 +82,7 @@ unzip -o '$RemoteZip' -d .
 rm '$RemoteZip'
 chmod +x setup.sh
 
-# Run setup.sh with sudo (needed for apt-get and Docker installation)
+# Run setup.sh with sudo (needed for apt-get and system Python install)
 if [ "\$(id -u)" -eq 0 ]; then
     bash setup.sh
 else
@@ -102,6 +103,6 @@ Write-Host "Next — upload your data files:"
 Write-Host "  scp -P $RemotePort clauses.xlsx annotated.xlsx ``"
 Write-Host "    ${RemoteUser}@${RemoteHost}:${RemoteDir}/data/"
 Write-Host ""
-Write-Host "Then open a shell inside the container:"
+Write-Host "Then SSH in, activate the venv, and start training:"
 Write-Host "  ssh -p $RemotePort ${RemoteUser}@${RemoteHost}"
-Write-Host "  cd $RemoteDir && docker compose run --rm classifier bash"
+Write-Host "  cd $RemoteDir && source venv/bin/activate"
